@@ -1,0 +1,20 @@
+{
+  "name": "m38-node-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbridges373/M38-Node-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbridges373/M38-Node-CLI/issues"
+  },
+  "homepage": "https://github.com/jbridges373/M38-Node-CLI#readme"
+}
