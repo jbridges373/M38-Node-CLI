@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jbridges373/M38-Node-CLI/issues"
   },
-  "homepage": "https://github.com/jbridges373/M38-Node-CLI#readme"
+  "homepage": "https://github.com/jbridges373/M38-Node-CLI#readme",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
 }
